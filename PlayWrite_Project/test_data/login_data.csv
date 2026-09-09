@@ -1,0 +1,5 @@
+username,password,expected_result
+user1_playwright@example.com,password123,success
+user2_playwright@example.com,password123,success
+user3_playwright@example.com,password123,success
+invalid_student@example.com,wrongpassword,failure
